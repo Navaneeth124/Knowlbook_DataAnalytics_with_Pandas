@@ -1,7 +1,7 @@
 # Knowlbook_DataAnalytics_with_Pandas
->> ## Data Analytics with Pandas:
+> ## Data Analytics with Pandas:
 
-> Pandas is an open-source Python Library that provides high-performance data manipulation and analysis. With the combination of Python and pandas, you can accomplish five typical steps in the processing and analysis of data, regardless of the origin of data: load, prepare, manipulate, model, and analyze.
+>> Pandas is an open-source Python Library that provides high-performance data manipulation and analysis. With the combination of Python and pandas, you can accomplish five typical steps in the processing and analysis of data, regardless of the origin of data: load, prepare, manipulate, model, and analyze.
 
 There are many options when working with the data using pandas. The following list shows some of the things that can be done using pandas.
 
